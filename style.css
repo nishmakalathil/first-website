@@ -54,6 +54,7 @@ header a {
 .left-section {
    width:600px;
    align-self:flex-start;
+   margin-left:20px;
    
 }
 
